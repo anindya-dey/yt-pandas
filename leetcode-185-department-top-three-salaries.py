@@ -1,4 +1,4 @@
-# Problem Link:https://leetcode.com/problems/department-top-three-salaries/description/?lang=pythondata
+# Problem Link: https://leetcode.com/problems/department-top-three-salaries/description/?lang=pythondata
 
 import pandas as pd
 
